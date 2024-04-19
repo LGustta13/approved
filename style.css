@@ -1,0 +1,15 @@
+.approved-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.approved-title {
+    font-size: 3rem;
+}
+
+h1, h2 {
+    text-align: center;
+}

@@ -18,3 +18,18 @@ img {
     height: 5rem;
     margin-bottom: 2rem;
 }
+
+.images-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    object-fit: cover;
+}
+
+.production {
+    height: 20rem;
+    border-radius: 1rem;
+    border-color: black;
+}
